@@ -1,7 +1,8 @@
 {
-    "latest_version": "7.02",
-    "download_url": "https://github.com/srujanachar/navify-releases/releases/download/v7.02/Navify_v7.02.exe",
+    "latest_version": "7.03",
+    "download_url": "https://github.com/srujanachar/navify-releases/releases/download/v7.03/Navify_v7.03.exe",
     "release_notes": "• Initial release of Navify\n• Basic GNSS data processing\n• Live data visualization\n• File import/export capabilities",
-    "release_date": "2024-01-15",
+    "release_date": "2024-01-20",
     "min_required_version": "7.00"
+
 }

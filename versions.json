@@ -4,6 +4,7 @@
     "release_notes": "This update will COMPLETELY REPLACE version 7.02.\n\n• Added auto-update system\n• Improved performance by 30%\n• Fixed GPS data parsing bug\n• Enhanced UI with dark mode",
     "release_date": "2024-01-20",
     "min_required_version": "7.00",
-    "installation_type": "replace",  # Add this field
+    "installation_type": "replace",
     "cleanup_old": true
 }
+
